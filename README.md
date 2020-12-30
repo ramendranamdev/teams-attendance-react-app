@@ -1,2 +1,2 @@
-# teams-attendance-react-app
+# qna-react-app
 Created with CodeSandbox
